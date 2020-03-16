@@ -1,4 +1,4 @@
-- Games
-- Linux
-  - Linux Server
-  - Linux based routers
+- _Games_
+- **Linux**
+  - Linux **Server**
+  - Linux based _routers_
