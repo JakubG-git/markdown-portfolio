@@ -1,4 +1,1 @@
-- _Games_
-- **Linux**
-  - Linux **Server**
-  - Linux based _routers_
+I like to do a _lot of things like_ networking and such
